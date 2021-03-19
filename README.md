@@ -1,4 +1,7 @@
 # **CHADOWN**
+
+## **Deprecated since I abandoned the idea of portability altogether and switched to .NET Framework. Look for the up-to-date repo.**
+
 ## The Basics
 CHADOWN is my C# rewrite of my shell script [SHADOWN](https://github.com/Jabarabo/SHADOWN). The point is so this can be run on windows unlike SHADOWN which was *NIX exclusive. All files are currently output into the user's Videos folder. 
 
@@ -11,3 +14,5 @@ CHADOWN is my C# rewrite of my shell script [SHADOWN](https://github.com/Jabarab
 **Youtube-DL**: Youtube-DL option is pretty easy to use. Follow the on screen instruction. If you need to know which sites you can use this on look [here](https://ytdl-org.github.io/youtube-dl/supportedsites.html).
 
 **BLOB/M3U8**: This option hinges on you knowing how .m3u8 files work and how to retieve them from a streaming site's page. Once you find the file copy and paste the URL for it when it asks and follow the onscreen instructions.
+
+## Deprecated since I abandoned the idea of portability altogether and switched to .NET Framework
